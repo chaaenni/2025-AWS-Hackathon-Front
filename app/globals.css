@@ -2,12 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+@layer components {
+  .all-\[unset\] {
+    all: unset;
   }
 }
 
+:root {
+  --large-font-family: "Pretendard", Helvetica;
+  --large-font-size: 19px;
+  --large-font-style: normal;
+  --large-font-weight: 900;
+  --large-letter-spacing: 0px;
+  --large-line-height: normal;
+  --layout-0: rgba(255, 255, 255, 1);
+  --layout-1: rgba(241, 243, 244, 1);
+  --layout-2: rgba(135, 141, 145, 1);
+  --layout-3: rgba(22, 29, 36, 1);
+  --medium-font-family: "Pretendard", Helvetica;
+  --medium-font-size: 15px;
+  --medium-font-style: normal;
+  --medium-font-weight: 600;
+  --medium-letter-spacing: 0px;
+  --medium-line-height: normal;
+  --primary: rgba(18, 186, 84, 1);
+  --primary-secondary: rgba(228, 235, 245, 1);
+  --small-bold-font-family: "Pretendard", Helvetica;
+  --small-bold-font-size: 13px;
+  --small-bold-font-style: normal;
+  --small-bold-font-weight: 900;
+  --small-bold-letter-spacing: 0px;
+  --small-bold-line-height: normal;
+  --small-font-family: "Pretendard", Helvetica;
+  --small-font-size: 13px;
+  --small-font-style: normal;
+  --small-font-weight: 400; /* 수정: 변수 이름 올바르게 변경 */
+  --small-letter-spacing: 0px; /* 수정: 긴 대시를 일반 대시로 변경 */
+  --small-line-height: normal;
+}
 @font-face {
   font-family: 'Pretendard-Regular';
   src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');

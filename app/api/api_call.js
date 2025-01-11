@@ -7,5 +7,7 @@ base_url= "http://localhost:3000/"
 export async function getCurrentUserInfo(req, res) {
     try {
         const response = await axios.get()
+    }catch(err){
+        console.log(err)
     }
 }

@@ -10,6 +10,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "layout-0": "var(--layout-0)",
+        "layout-1": "var(--layout-1)",
+        "layout-2": "var(--layout-2)",
+        "layout-3": "var(--layout-3)",
+        primary: "var(--primary)",
+        "primary-secondary": "var(--primary-secondary)",
       },
       screens: {
         'xs': '393px',
@@ -17,6 +23,10 @@ export default {
       fontFamily: {
         pretendard: ['Pretendard-Regular'],
         pretendard_bold: ['Pretendard-Bold'],
+        large: "var(--large-font-family)",
+        medium: "var(--medium-font-family)",
+        small: "var(--small-font-family)",
+        "small-bold": "var(--small-bold-font-family)",
       },
     },
   },
