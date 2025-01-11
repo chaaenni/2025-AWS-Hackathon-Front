@@ -1,7 +1,7 @@
 'use client'
 import axios from 'axios';
 
-base_url= "http://localhost:3000/"
+const base_url = "http://localhost:8000";
 
 export const getCurrentUserInfo = async (func) => {
     fetch(`${base_url}/get_current_user_info/`).then(
@@ -32,7 +32,7 @@ export const setCurrentUserInfo = async (inst) => {
 }
 
 export const setInventoryInfo = async (inst) => {
-    fetch(`${base_url}/set_current_user_info/`, {
+    fetch(`${base_url}/set_inventory_info/`, {
         method: "POST",
         credentials: "include",
         headers: {
