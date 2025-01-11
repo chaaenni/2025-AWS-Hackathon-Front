@@ -44,7 +44,7 @@ const Home = () => {
             shoe = 0;
         }
         let glass = 1;
-        if (item.glasses == null || item.glasses == 0) {
+        if (item.accessory == null || item.accessory == 0) {
             glass = 0
         }
         let scooter = 1
@@ -74,12 +74,20 @@ const Home = () => {
 
     return (
         <div className="flex flex-col items-center p-5">
-            <h1 className="text-2xl font-bold mb-4">ECOO의 옷장</h1>
-            <button className="px-4 py-2 bg-blue-500 text-white rounded" onClick={() => {
+            {/* <h1 className="text-2xl font-bold mb-4">에쿠의 옷장</h1> */}
+            <a href='/'>
+                <img src='/figma/frame28.svg'/>
+            </a>
+            <button className="px-4 py-2 text-white rounded-3xl text-[12px] font-pretendard_bold" style={{font: '#12BA54'}} onClick={() => {
                 getCurrentUserInfo(setSelectedItems);
 
             }}>새로 고침</button>
-            <button onClick={() => console.log(selectedItems)}>show current info</button>
+            {/* <button onClick={() => console.log(selectedItems)}>show current info</button> */}
+
+            {/* Progress Bar */}
+            {/* <ProgressBar progress={80} /> Replace 60 with dynamic value */}
+            <img src='/figma/progressbar.svg' className='mt-10'/>
+
             {/* Image Component */}
             <div className="relative w-72 h-72">
                 <Image
@@ -96,16 +104,28 @@ const Home = () => {
                 </div>
             </div>
 
-            {/* Buttons */}
-            <div className="grid grid-cols-2 gap-4 my-5">
-                <button className="px-4 py-2 bg-blue-500 text-white rounded" onClick={() => setModalType('tshirt')}>상의</button>
-                <button className="px-4 py-2 bg-blue-500 text-white rounded" onClick={() => setModalType('shoes')}>신발</button>
-                <button className="px-4 py-2 bg-blue-500 text-white rounded" onClick={() => setModalType('glasses')}>악세사리</button>
-                <button className="px-4 py-2 bg-blue-500 text-white rounded" onClick={() => setModalType('scooter')}>전동 킥보드</button>
+            <div className='fixed rounded-3xl bottom-[-20px] border border-2 h-[380px] w-[396px] px-10 py-5'>
+                <div className='font-pretendard_bold mt-5 mb-5 text-[18px]'>에쿠의 옷장</div>
+                {/* Buttons */}
+                <div className="grid grid-cols-2 gap-4 my-5">
+                    <button className="flex px-4 py-2 text-gray-500 text-[14px] font-pretendard_bold rounded-3xl w-[150px] h-[100px] shadow hover:bg-green hover:text-white overflow-hidden relative" onClick={() => setModalType('tshirt')}>
+                        <p className='mr-4 absolute top-2 left-5'>상의</p>
+                        <img src='/clothes/tshirt.png' className='opacity-50 absolute right-[-30px] bottom-[-60px]'/>
+                    </button>
+                    <button className="px-4 py-2 text-gray-500 text-[14px] font-pretendard_bold rounded-3xl  w-[150px] h-[100px] shadow overflow-hidden relative" onClick={() => setModalType('shoes')}>
+                        <p className='mr-5 absolute top-2 left-5'>신발</p>
+                        <img src='/clothes/shoe.png' className='opacity-50 absolute right-[-30px] bottom-[-30px]'/>
+                    </button>
+                    <button className="px-4 py-2 text-gray-500 text-[14px] font-pretendard_bold rounded-3xl  w-[150px] h-[100px] shadow overflow-hidden relative" onClick={() => setModalType('accessory')}>
+                        <p className='mr-5 absolute top-2 left-5'>악세서리</p>
+                        <img src='/clothes/hat.png' className='opacity-50 absolute right-[-30px] bottom-[-30px]'/>
+                    </button>
+                    <button className="px-4 py-2 text-gray-500 text-[14px] font-pretendard_bold rounded-3xl  w-[150px] h-[100px] shadow overflow-hidden relative" onClick={() => setModalType('scooter')}>
+                        <p className='mr-5 absolute top-2 left-5'>킥보드</p>
+                        <img src='/clothes/scooter.png' className='opacity-50 absolute right-[-60px] bottom-[-30px]'/>
+                    </button>
+                </div>
             </div>
-
-            {/* Progress Bar */}
-            <ProgressBar progress={80} /> {/* Replace 60 with dynamic value */}
 
             {/* Modal */}
             {modalType && (
