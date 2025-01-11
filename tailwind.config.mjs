@@ -11,6 +11,13 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      screens: {
+        'xs': '393px',
+      },
+      fontFamily: {
+        pretendard: ['Pretendard-Regular'],
+        pretendard_bold: ['Pretendard-Bold'],
+      },
     },
   },
   plugins: [],

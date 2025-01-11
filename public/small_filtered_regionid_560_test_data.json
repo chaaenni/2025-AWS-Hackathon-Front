@@ -1,0 +1,65 @@
+[
+    {
+        "": "1",
+        "bicycle_id": "100148",
+        "end_lat": "37.487193",
+        "end_lng": "127.026227",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "4",
+        "bicycle_id": "118779",
+        "end_lat": "37.491765",
+        "end_lng": "127.026635",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "7",
+        "bicycle_id": "118729",
+        "end_lat": "37.487411",
+        "end_lng": "127.028691",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "10",
+        "bicycle_id": "118850",
+        "end_lat": "37.485215",
+        "end_lng": "127.029521",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "14",
+        "bicycle_id": "100934",
+        "end_lat": "37.484528",
+        "end_lng": "127.029714",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "22",
+        "bicycle_id": "102662",
+        "end_lat": "37.491757",
+        "end_lng": "127.030839",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "23",
+        "bicycle_id": "105422",
+        "end_lat": "37.491705",
+        "end_lng": "127.030933",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "26",
+        "bicycle_id": "107188",
+        "end_lat": "37.490604",
+        "end_lng": "127.030964",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "29",
+        "bicycle_id": "100529",
+        "end_lat": "37.493269",
+        "end_lng": "127.031199",
+        "MODEL_TYPE": "kickboard"
+    }
+]
