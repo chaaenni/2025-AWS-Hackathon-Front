@@ -1,20 +1,39 @@
 import React from "react";
 
+
 const Element = () => {
   return (
     <div className="bg-white flex flex-row justify-center w-full">
       <div className="bg-white w-[393px] h-[852px] relative">
         <img
-          className="absolute w-[393px] h-6 top-[61px] left-0"
-          alt="Frame"
-          src={'/figma/frame28.svg'}
+            className="absolute w-[393px] h-6 top-[40px] left-0"
+            alt="Frame"
+            src={'/figma/frame28.svg'}
         />
-
+        <a href="./styling"> 
+          <img
+            className="absolute w-[393px] h-[200px] top-[100px] left-0"
+            alt="Frame"
+            src={'/figma/frame29.svg'}
+          />
+        </a>
         <img
-          className="absolute w-[393px] h-[600px] top-[116px] left-0"
-          alt="Frame"
-          src={'/figma/frame47.svg'}
+            className="absolute w-[393px] h-[48px] top-[320px] left-0"
+            alt="Frame"
+            src={'/figma/frame32.svg'}
         />
+        <a href="./rent_luckydraw">
+          <img
+            className="absolute w-[393px] h-[195px] top-[390px] left-0"
+            alt="Frame"
+            src={'/figma/frame40.svg'}
+          />
+        </a>
+        <img
+            className="absolute w-[393px] h-[112px] top-[600px] left-0"
+            alt="Frame"
+            src={'/figma/frame41.svg'}
+          />
 
         <div className="flex w-[393px] items-center gap-[15px] px-[15px] py-0 absolute top-[734px] left-0">
           <div className="flex flex-wrap w-[174px] h-[69px] items-center justify-center gap-[40px_40px] p-[15px] relative bg-layout-1 rounded-[5px] overflow-hidden">

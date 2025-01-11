@@ -296,8 +296,8 @@ export default function RentLuckyDraw(){
                     
                 </div>:
                 <div className='fixed bottom-[-25px] left-0 px-3 py-2 bg-white w-full h-[250px] rounded-3xl flex flex-col transition duration-600'>
-                    <div className='flex items-center'>
-                        <img src='character3.png'/>
+                    <div className='flex items-center justify-center mb-6 mt-5'>
+                        <img className='mr-6' src='/dragon.svg'/>
                         <div className='flex flex-col'>
                             <p className='font-pretendard_bold text-[16px] mb-1 leading-tight'>목적지를 검색해서 근처의 <br/>아늑한 집에 날 데려다줘!</p>
                             <p className='font-pretendard text-[12px]'>목적지 검색해서 적합한 주차 공간 추천받기</p>
@@ -309,9 +309,11 @@ export default function RentLuckyDraw(){
                         </div>
                     </div>
                     <div className='flex justify-center text-[14px] font-pretendard_bold'>
-                        <div className='rounded-lg px-6 py-2 mr-5 w-[140px] bg-white flex justify-center border text-gray-500'>
-                            닫기
-                        </div>
+                        <a href='/'>
+                            <div className='rounded-lg px-6 py-2 mr-5 w-[140px] bg-white flex justify-center border text-gray-500'>
+                                닫기
+                            </div>
+                        </a>
                         <div className='rounded-lg px-6 py-2 w-[140px] flex justify-center text-white' style={{backgroundColor: '#12BA54'}}>
                             대여하기
                         </div>

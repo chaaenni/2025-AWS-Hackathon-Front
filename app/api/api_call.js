@@ -1,7 +1,7 @@
 'use client'
-import axios from 'axios';
+// import axios from 'axios';
 
-const base_url = "http://localhost:8000";
+base_url= "http://localhost:8000"
 
 export const getCurrentUserInfo = async (func) => {
     fetch(`${base_url}/get_current_user_info/`).then(
