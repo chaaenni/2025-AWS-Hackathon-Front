@@ -3,20 +3,20 @@ import Image from 'next/image';
 const ItemModal = ({ type, onSelect, onClose }) => {
     const items = {
       tshirt: [
-        { name: 'Default', src: null},
-        { name: 'Green T-Shirt', src: '/blue-tshirt.png' },
+        { name: 'Default', src: 0},
+        { name: 'Green T-Shirt', src: 1 },
       ],
       shoes: [
-        { name: 'Default', src: null },
-        { name: 'Sneakers', src: '/boots.png' },
+        { name: 'Default', src: 0 },
+        { name: 'Sneakers', src: 1 },
       ],
       glasses: [
-        { name: 'Default', src: null },
-        { name: 'Plant', src: '/plant.png' },
+        { name: 'Default', src: 0 },
+        { name: 'Plant', src: 1 },
       ],
       scooter: [
-          { name: 'Default', src: null },
-          { name: 'White Scooter', src: '/white-scooter.png' }
+          { name: 'Default', src: 0 },
+          { name: 'White Scooter', src: 1 }
       ],
     };
 
