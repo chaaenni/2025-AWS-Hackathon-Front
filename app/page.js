@@ -1,7 +1,21 @@
-import React from "react";
-
+'use client'
+import React, { useEffect, useState } from "react";
 
 const Element = () => {
+
+  const [ifTuned, setIfTuned] = useState(false)
+
+  // useEffect(()=>{
+  //   setIfTuned(false)
+  // }, [])
+
+  useEffect(()=>{
+    const query = new URLSearchParams(window.location.search)
+    if(query.get('ifTuned') == 'true'){
+      setIfTuned(true)
+    }
+  }, [])
+
   return (
     <div className="bg-white flex flex-row justify-center w-full">
       <div className="bg-white w-[393px] h-[852px] relative">
@@ -11,11 +25,17 @@ const Element = () => {
             src={'/figma/frame28.svg'}
         />
         <a href="./styling"> 
-          <img
-            className="absolute w-[393px] h-[200px] top-[100px] left-0"
-            alt="Frame"
-            src={'/figma/frame29.svg'}
-          />
+          {ifTuned?
+            <img 
+              className="absolute w-[393px] h-[200px] top-[100px] left-0"
+              alt="Frame"
+              src={'/figma/1_chick_clean.svg'}
+            /> :
+            <img
+                className="absolute w-[393px] h-[200px] top-[100px] left-0"
+                alt="Frame"
+                src={'/figma/1_chick_dirty.svg'}
+            />}
         </a>
         <img
             className="absolute w-[393px] h-[48px] top-[320px] left-0"

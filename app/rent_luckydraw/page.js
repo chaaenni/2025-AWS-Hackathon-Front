@@ -156,7 +156,7 @@ export default function RentLuckyDraw(){
 
     
     useEffect(()=>{
-        fetch("/small_filtered_regionid_560_test_data.json").then(res=>res.json())
+        fetch("/filtered_regionid_560_test_data.json").then(res=>res.json())
         .then(data=>setKickPos(data))
     }, [])
 

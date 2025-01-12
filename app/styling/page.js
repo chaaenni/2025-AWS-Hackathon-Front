@@ -75,7 +75,7 @@ const Home = () => {
     return (
         <div className="flex flex-col items-center p-5">
             {/* <h1 className="text-2xl font-bold mb-4">에쿠의 옷장</h1> */}
-            <a href='/'>
+            <a href='/?ifTuned=true'>
                 <img src='/figma/frame28.svg'/>
             </a>
             <button className="px-4 py-2 text-white rounded-3xl text-[12px] font-pretendard_bold" style={{font: '#12BA54'}} onClick={() => {

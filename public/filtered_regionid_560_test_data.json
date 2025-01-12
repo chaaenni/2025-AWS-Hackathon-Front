@@ -1,0 +1,1066 @@
+[
+    {
+        "": "1",
+        "bicycle_id": "100148",
+        "end_lat": "37.487193",
+        "end_lng": "127.026227",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "4",
+        "bicycle_id": "118779",
+        "end_lat": "37.491765",
+        "end_lng": "127.026635",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "7",
+        "bicycle_id": "118729",
+        "end_lat": "37.487411",
+        "end_lng": "127.028691",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "10",
+        "bicycle_id": "118850",
+        "end_lat": "37.485215",
+        "end_lng": "127.029521",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "14",
+        "bicycle_id": "100934",
+        "end_lat": "37.484528",
+        "end_lng": "127.029714",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "22",
+        "bicycle_id": "102662",
+        "end_lat": "37.491757",
+        "end_lng": "127.030839",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "23",
+        "bicycle_id": "105422",
+        "end_lat": "37.491705",
+        "end_lng": "127.030933",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "26",
+        "bicycle_id": "107188",
+        "end_lat": "37.490604",
+        "end_lng": "127.030964",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "29",
+        "bicycle_id": "100529",
+        "end_lat": "37.493269",
+        "end_lng": "127.031199",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "31",
+        "bicycle_id": "118884",
+        "end_lat": "37.491724",
+        "end_lng": "127.031346",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "35",
+        "bicycle_id": "107535",
+        "end_lat": "37.490309",
+        "end_lng": "127.031626",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "36",
+        "bicycle_id": "118387",
+        "end_lat": "37.474365",
+        "end_lng": "127.031678",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "38",
+        "bicycle_id": "107439",
+        "end_lat": "37.491883",
+        "end_lng": "127.03175",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "41",
+        "bicycle_id": "103479",
+        "end_lat": "37.493416",
+        "end_lng": "127.031916",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "49",
+        "bicycle_id": "103148",
+        "end_lat": "37.492439",
+        "end_lng": "127.032186",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "54",
+        "bicycle_id": "118939",
+        "end_lat": "37.487664",
+        "end_lng": "127.03238",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "55",
+        "bicycle_id": "103791",
+        "end_lat": "37.474735",
+        "end_lng": "127.032401",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "56",
+        "bicycle_id": "118354",
+        "end_lat": "37.488416",
+        "end_lng": "127.032428",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "57",
+        "bicycle_id": "100596",
+        "end_lat": "37.490478",
+        "end_lng": "127.032848",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "63",
+        "bicycle_id": "100785",
+        "end_lat": "37.489888",
+        "end_lng": "127.03324",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "66",
+        "bicycle_id": "100419",
+        "end_lat": "37.493565",
+        "end_lng": "127.033819",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "73",
+        "bicycle_id": "103398",
+        "end_lat": "37.485101",
+        "end_lng": "127.034042",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "74",
+        "bicycle_id": "107468",
+        "end_lat": "37.485068",
+        "end_lng": "127.034077",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "75",
+        "bicycle_id": "118887",
+        "end_lat": "37.492598",
+        "end_lng": "127.034082",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "77",
+        "bicycle_id": "103313",
+        "end_lat": "37.485078",
+        "end_lng": "127.034123",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "78",
+        "bicycle_id": "107345",
+        "end_lat": "37.485084",
+        "end_lng": "127.034133",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "84",
+        "bicycle_id": "102607",
+        "end_lat": "37.483536",
+        "end_lng": "127.03468",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "86",
+        "bicycle_id": "118755",
+        "end_lat": "37.484177",
+        "end_lng": "127.03489",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "89",
+        "bicycle_id": "118693",
+        "end_lat": "37.484509",
+        "end_lng": "127.034989",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "93",
+        "bicycle_id": "118942",
+        "end_lat": "37.474039",
+        "end_lng": "127.035674",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "94",
+        "bicycle_id": "104373",
+        "end_lat": "37.493133",
+        "end_lng": "127.035745",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "96",
+        "bicycle_id": "105195",
+        "end_lat": "37.492564",
+        "end_lng": "127.035905",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "97",
+        "bicycle_id": "106123",
+        "end_lat": "37.494006",
+        "end_lng": "127.035921",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "100",
+        "bicycle_id": "105161",
+        "end_lat": "37.486089",
+        "end_lng": "127.036005",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "110",
+        "bicycle_id": "101110",
+        "end_lat": "37.491874",
+        "end_lng": "127.036555",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "113",
+        "bicycle_id": "100336",
+        "end_lat": "37.483072",
+        "end_lng": "127.036785",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "118",
+        "bicycle_id": "105631",
+        "end_lat": "37.495391",
+        "end_lng": "127.037412",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "121",
+        "bicycle_id": "106140",
+        "end_lat": "37.484828",
+        "end_lng": "127.037513",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "128",
+        "bicycle_id": "118894",
+        "end_lat": "37.488626",
+        "end_lng": "127.038183",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "129",
+        "bicycle_id": "118579",
+        "end_lat": "37.489839",
+        "end_lng": "127.038289",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "131",
+        "bicycle_id": "107106",
+        "end_lat": "37.48992",
+        "end_lng": "127.038341",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "132",
+        "bicycle_id": "102002",
+        "end_lat": "37.495451",
+        "end_lng": "127.038355",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "135",
+        "bicycle_id": "104294",
+        "end_lat": "37.478379",
+        "end_lng": "127.038912",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "138",
+        "bicycle_id": "105271",
+        "end_lat": "37.480697",
+        "end_lng": "127.03905",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "145",
+        "bicycle_id": "102656",
+        "end_lat": "37.480502",
+        "end_lng": "127.039463",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "146",
+        "bicycle_id": "104538",
+        "end_lat": "37.493218",
+        "end_lng": "127.039495",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "153",
+        "bicycle_id": "118325",
+        "end_lat": "37.494384",
+        "end_lng": "127.040904",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "155",
+        "bicycle_id": "104439",
+        "end_lat": "37.48619",
+        "end_lng": "127.040983",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "160",
+        "bicycle_id": "105379",
+        "end_lat": "37.48477",
+        "end_lng": "127.041168",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "163",
+        "bicycle_id": "107261",
+        "end_lat": "37.488557",
+        "end_lng": "127.041254",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "164",
+        "bicycle_id": "118695",
+        "end_lat": "37.488797",
+        "end_lng": "127.041341",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "168",
+        "bicycle_id": "107103",
+        "end_lat": "37.493752",
+        "end_lng": "127.041482",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "169",
+        "bicycle_id": "117901",
+        "end_lat": "37.494798",
+        "end_lng": "127.041527",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "171",
+        "bicycle_id": "118759",
+        "end_lat": "37.485268",
+        "end_lng": "127.041653",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "174",
+        "bicycle_id": "118571",
+        "end_lat": "37.478521",
+        "end_lng": "127.04198",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "176",
+        "bicycle_id": "118970",
+        "end_lat": "37.484358",
+        "end_lng": "127.04208",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "178",
+        "bicycle_id": "117757",
+        "end_lat": "37.485833",
+        "end_lng": "127.042381",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "180",
+        "bicycle_id": "118367",
+        "end_lat": "37.485891",
+        "end_lng": "127.042649",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "182",
+        "bicycle_id": "103470",
+        "end_lat": "37.492748",
+        "end_lng": "127.04267",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "185",
+        "bicycle_id": "102496",
+        "end_lat": "37.482882",
+        "end_lng": "127.043915",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "186",
+        "bicycle_id": "117979",
+        "end_lat": "37.48341",
+        "end_lng": "127.044348",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "200",
+        "bicycle_id": "102536",
+        "end_lat": "37.496483",
+        "end_lng": "127.046684",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "202",
+        "bicycle_id": "118824",
+        "end_lat": "37.486763",
+        "end_lng": "127.046715",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "204",
+        "bicycle_id": "100483",
+        "end_lat": "37.483242",
+        "end_lng": "127.047456",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "207",
+        "bicycle_id": "118847",
+        "end_lat": "37.488086",
+        "end_lng": "127.048698",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "208",
+        "bicycle_id": "100428",
+        "end_lat": "37.499692",
+        "end_lng": "127.049296",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "211",
+        "bicycle_id": "102268",
+        "end_lat": "37.498769",
+        "end_lng": "127.050653",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "213",
+        "bicycle_id": "107144",
+        "end_lat": "37.488469",
+        "end_lng": "127.050756",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "217",
+        "bicycle_id": "107211",
+        "end_lat": "37.500635",
+        "end_lng": "127.051332",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "220",
+        "bicycle_id": "104802",
+        "end_lat": "37.500311",
+        "end_lng": "127.052337",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "222",
+        "bicycle_id": "104228",
+        "end_lat": "37.500274",
+        "end_lng": "127.052339",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "223",
+        "bicycle_id": "118947",
+        "end_lat": "37.497588",
+        "end_lng": "127.052482",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "229",
+        "bicycle_id": "118335",
+        "end_lat": "37.495551",
+        "end_lng": "127.053028",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "230",
+        "bicycle_id": "118327",
+        "end_lat": "37.497836",
+        "end_lng": "127.053086",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "231",
+        "bicycle_id": "100813",
+        "end_lat": "37.487788",
+        "end_lng": "127.05311",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "234",
+        "bicycle_id": "103353",
+        "end_lat": "37.543027",
+        "end_lng": "127.053436",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "237",
+        "bicycle_id": "118640",
+        "end_lat": "37.49915",
+        "end_lng": "127.053702",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "238",
+        "bicycle_id": "118699",
+        "end_lat": "37.494949",
+        "end_lng": "127.053739",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "239",
+        "bicycle_id": "117877",
+        "end_lat": "37.494917",
+        "end_lng": "127.053768",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "244",
+        "bicycle_id": "100074",
+        "end_lat": "37.489099",
+        "end_lng": "127.054283",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "245",
+        "bicycle_id": "107210",
+        "end_lat": "37.497175",
+        "end_lng": "127.054504",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "246",
+        "bicycle_id": "118689",
+        "end_lat": "37.496008",
+        "end_lng": "127.054682",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "247",
+        "bicycle_id": "118757",
+        "end_lat": "37.497048",
+        "end_lng": "127.054725",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "248",
+        "bicycle_id": "105272",
+        "end_lat": "37.496956",
+        "end_lng": "127.054979",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "249",
+        "bicycle_id": "103384",
+        "end_lat": "37.490999",
+        "end_lng": "127.055014",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "253",
+        "bicycle_id": "117720",
+        "end_lat": "37.49994",
+        "end_lng": "127.055264",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "254",
+        "bicycle_id": "118840",
+        "end_lat": "37.497194",
+        "end_lng": "127.055307",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "257",
+        "bicycle_id": "104225",
+        "end_lat": "37.491296",
+        "end_lng": "127.055583",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "263",
+        "bicycle_id": "118867",
+        "end_lat": "37.497177",
+        "end_lng": "127.056101",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "267",
+        "bicycle_id": "102571",
+        "end_lat": "37.497359",
+        "end_lng": "127.056533",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "272",
+        "bicycle_id": "105414",
+        "end_lat": "37.507242",
+        "end_lng": "127.057105",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "278",
+        "bicycle_id": "117953",
+        "end_lat": "37.491981",
+        "end_lng": "127.057374",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "279",
+        "bicycle_id": "106159",
+        "end_lat": "37.500678",
+        "end_lng": "127.057408",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "280",
+        "bicycle_id": "102215",
+        "end_lat": "37.497655",
+        "end_lng": "127.057472",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "286",
+        "bicycle_id": "100746",
+        "end_lat": "37.492781",
+        "end_lng": "127.057893",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "287",
+        "bicycle_id": "102374",
+        "end_lat": "37.493039",
+        "end_lng": "127.057919",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "288",
+        "bicycle_id": "100492",
+        "end_lat": "37.502062",
+        "end_lng": "127.057929",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "291",
+        "bicycle_id": "101067",
+        "end_lat": "37.492783",
+        "end_lng": "127.058002",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "296",
+        "bicycle_id": "118297",
+        "end_lat": "37.503862",
+        "end_lng": "127.058161",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "300",
+        "bicycle_id": "101279",
+        "end_lat": "37.497885",
+        "end_lng": "127.058314",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "305",
+        "bicycle_id": "100711",
+        "end_lat": "37.499131",
+        "end_lng": "127.058357",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "306",
+        "bicycle_id": "118938",
+        "end_lat": "37.499293",
+        "end_lng": "127.058357",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "312",
+        "bicycle_id": "103435",
+        "end_lat": "37.499361",
+        "end_lng": "127.058401",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "317",
+        "bicycle_id": "102143",
+        "end_lat": "37.502906",
+        "end_lng": "127.058599",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "321",
+        "bicycle_id": "104884",
+        "end_lat": "37.498058",
+        "end_lng": "127.058769",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "324",
+        "bicycle_id": "118823",
+        "end_lat": "37.502916",
+        "end_lng": "127.058875",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "325",
+        "bicycle_id": "118883",
+        "end_lat": "37.4996",
+        "end_lng": "127.058884",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "328",
+        "bicycle_id": "102650",
+        "end_lat": "37.50202",
+        "end_lng": "127.059066",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "329",
+        "bicycle_id": "105732",
+        "end_lat": "37.498486",
+        "end_lng": "127.059084",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "330",
+        "bicycle_id": "105474",
+        "end_lat": "37.502592",
+        "end_lng": "127.059205",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "331",
+        "bicycle_id": "104432",
+        "end_lat": "37.501701",
+        "end_lng": "127.059224",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "334",
+        "bicycle_id": "100521",
+        "end_lat": "37.501656",
+        "end_lng": "127.059302",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "336",
+        "bicycle_id": "101306",
+        "end_lat": "37.50147",
+        "end_lng": "127.05933",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "337",
+        "bicycle_id": "101053",
+        "end_lat": "37.502057",
+        "end_lng": "127.059339",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "340",
+        "bicycle_id": "104431",
+        "end_lat": "37.499913",
+        "end_lng": "127.059503",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "341",
+        "bicycle_id": "103526",
+        "end_lat": "37.501108",
+        "end_lng": "127.059526",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "346",
+        "bicycle_id": "118859",
+        "end_lat": "37.501167",
+        "end_lng": "127.059844",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "348",
+        "bicycle_id": "100943",
+        "end_lat": "37.492676",
+        "end_lng": "127.059893",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "356",
+        "bicycle_id": "117966",
+        "end_lat": "37.498705",
+        "end_lng": "127.060077",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "357",
+        "bicycle_id": "118825",
+        "end_lat": "37.49627",
+        "end_lng": "127.060103",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "360",
+        "bicycle_id": "107121",
+        "end_lat": "37.498893",
+        "end_lng": "127.060184",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "370",
+        "bicycle_id": "117831",
+        "end_lat": "37.499422",
+        "end_lng": "127.060454",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "373",
+        "bicycle_id": "117989",
+        "end_lat": "37.499183",
+        "end_lng": "127.060489",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "375",
+        "bicycle_id": "103343",
+        "end_lat": "37.499158",
+        "end_lng": "127.060546",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "376",
+        "bicycle_id": "101222",
+        "end_lat": "37.496442",
+        "end_lng": "127.060549",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "380",
+        "bicycle_id": "105191",
+        "end_lat": "37.499078",
+        "end_lng": "127.060608",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "382",
+        "bicycle_id": "118896",
+        "end_lat": "37.493106",
+        "end_lng": "127.060624",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "385",
+        "bicycle_id": "104005",
+        "end_lat": "37.498126",
+        "end_lng": "127.060717",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "387",
+        "bicycle_id": "103825",
+        "end_lat": "37.498487",
+        "end_lng": "127.060937",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "391",
+        "bicycle_id": "118851",
+        "end_lat": "37.498384",
+        "end_lng": "127.061041",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "397",
+        "bicycle_id": "102582",
+        "end_lat": "37.498529",
+        "end_lng": "127.061318",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "398",
+        "bicycle_id": "105242",
+        "end_lat": "37.493842",
+        "end_lng": "127.061396",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "399",
+        "bicycle_id": "102608",
+        "end_lat": "37.49848",
+        "end_lng": "127.061421",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "401",
+        "bicycle_id": "103981",
+        "end_lat": "37.493888",
+        "end_lng": "127.061434",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "402",
+        "bicycle_id": "105433",
+        "end_lat": "37.493912",
+        "end_lng": "127.061467",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "404",
+        "bicycle_id": "118558",
+        "end_lat": "37.498391",
+        "end_lng": "127.061545",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "412",
+        "bicycle_id": "118816",
+        "end_lat": "37.493606",
+        "end_lng": "127.061774",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "420",
+        "bicycle_id": "104056",
+        "end_lat": "37.49476",
+        "end_lng": "127.062868",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "421",
+        "bicycle_id": "100781",
+        "end_lat": "37.49874",
+        "end_lng": "127.062906",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "424",
+        "bicycle_id": "118718",
+        "end_lat": "37.490449",
+        "end_lng": "127.063465",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "425",
+        "bicycle_id": "118032",
+        "end_lat": "37.494389",
+        "end_lng": "127.063484",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "435",
+        "bicycle_id": "102069",
+        "end_lat": "37.501669",
+        "end_lng": "127.064846",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "438",
+        "bicycle_id": "118237",
+        "end_lat": "37.50343",
+        "end_lng": "127.064924",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "439",
+        "bicycle_id": "103372",
+        "end_lat": "37.501947",
+        "end_lng": "127.064973",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "440",
+        "bicycle_id": "104580",
+        "end_lat": "37.495266",
+        "end_lng": "127.065129",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "441",
+        "bicycle_id": "100317",
+        "end_lat": "37.4953",
+        "end_lng": "127.065258",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "443",
+        "bicycle_id": "118365",
+        "end_lat": "37.502533",
+        "end_lng": "127.065345",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "445",
+        "bicycle_id": "118100",
+        "end_lat": "37.50298",
+        "end_lng": "127.066035",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "448",
+        "bicycle_id": "101023",
+        "end_lat": "37.503433",
+        "end_lng": "127.06657",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "455",
+        "bicycle_id": "118908",
+        "end_lat": "37.49883",
+        "end_lng": "127.069087",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "459",
+        "bicycle_id": "118359",
+        "end_lat": "37.494706",
+        "end_lng": "127.070644",
+        "MODEL_TYPE": "kickboard"
+    },
+    {
+        "": "461",
+        "bicycle_id": "107349",
+        "end_lat": "37.419911",
+        "end_lng": "127.113013",
+        "MODEL_TYPE": "kickboard"
+    }
+]
