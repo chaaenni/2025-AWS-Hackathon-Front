@@ -11,10 +11,15 @@ export default {
         fadeOut: {
           '0%': { opacity: '1' },
           '100%': { opacity: '0' }
-        }
+        },
+        slideInFromRight: {
+          "0%": { transform: "translateX(100%)", opacity: "0" },
+          "100%": { transform: "translateX(0)", opacity: "1" },
+        },
       },
       animation: {
-        fadeOut: 'fadeOut 1.5s ease-out'
+        fadeOut: 'fadeOut 1.5s ease-out',
+        slideInFromRight: "slideInFromRight 1s ease-in-out forwards",
       },
       colors: {
         background: "var(--background)",
